@@ -1,5 +1,9 @@
+import {Sidebar} from "./components/index.ts";
+
 function App() {
-  return <></>;
+  return <>
+  <Sidebar/>
+  </>;
 }
 
 export default App;
